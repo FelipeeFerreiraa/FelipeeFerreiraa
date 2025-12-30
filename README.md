@@ -2,11 +2,11 @@ Opa Felipe aqui!
 
 
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeeFerreiraa&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="180em" alt="languages graph"  />
 </div>
 
-<br/>
+<br/> -->
 <br/>
 
 ### 🤖 Linguagens e Tecnologias
